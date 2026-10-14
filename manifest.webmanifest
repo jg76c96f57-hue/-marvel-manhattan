@@ -1,0 +1,18 @@
+{
+  "name": "Marvel-Manhattan Bauplaner",
+  "short_name": "Marvel Manhattan",
+  "description": "Minecraft-Survival-Bauplaner für Marvel-Manhattan mit Stadtplan, Materiallisten und Baufortschritt.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#b71c1c",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
